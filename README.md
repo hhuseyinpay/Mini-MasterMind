@@ -1,0 +1,2 @@
+# Mini-MasterMind
+CME 1101 - PROJECT BASED LEARNING I COURSE(2015) / Project 1 
